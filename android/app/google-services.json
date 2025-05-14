@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1006889570088",
+    "project_id": "authasignment",
+    "storage_bucket": "authasignment.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006889570088:android:5a2fbb4ea9a79f475e8a1d",
+        "android_client_info": {
+          "package_name": "com.example.assignmentt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2X5KDs-2omxLo_PR0qUb3awhuxTJDCWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
